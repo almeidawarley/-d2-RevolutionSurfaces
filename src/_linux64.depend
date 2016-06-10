@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1409787732 source:/media/rodrigo/Data/Rodrigo/Dropbox/Projects/Disciplinas/CG/CG/src/01_quad.cpp
+	<stdio.h>
+	<GL/glut.h>
+
+1368290960 /media/rodrigo/Data/Rodrigo/Dropbox/Projects/Disciplinas/CG/CG/include/GL/glut.h
+	"freeglut_std.h"
+
+1368290960 /media/rodrigo/Data/Rodrigo/Dropbox/Projects/Disciplinas/CG/CG/include/GL/freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+

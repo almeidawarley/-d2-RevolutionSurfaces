@@ -1,0 +1,432 @@
+# depslib dependency file v1.0
+1460724277 source:c:\users\almei\dropbox\universidade federal juiz de fora\3° período\computação gráfica\cg\cg\src\[13-04-2016] palheta de cores.cpp
+	<string.h>
+	<GL/glui.h>
+
+1460577516 c:\users\almei\dropbox\universidade federal juiz de fora\3° período\computação gráfica\cg\cg\include\gl\glui.h
+	<GL/freeglut.h>
+	<GL/openglut.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<vector>
+
+1368290960 c:\users\almei\dropbox\universidade federal juiz de fora\3° período\computação gráfica\cg\cg\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1368290960 c:\users\almei\dropbox\universidade federal juiz de fora\3° período\computação gráfica\cg\cg\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1368290960 c:\users\almei\dropbox\universidade federal juiz de fora\3° período\computação gráfica\cg\cg\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1368290960 c:\users\almei\dropbox\universidade federal juiz de fora\3° período\computação gráfica\cg\cg\include\gl\glut.h
+	"freeglut_std.h"
+
+1409787732 source:c:\users\almei\dropbox\universidade federal juiz de fora\3° período\computação gráfica\cg\cg\src\01_quad.cpp
+	<stdio.h>
+	<GL/glut.h>
+
+1461077232 source:c:\users\almei\dropbox\universidade federal juiz de fora\3° período\computação gráfica\cg\cg\src\05_triangle_anim.cpp
+	<GL/glut.h>
+
+1461081687 source:c:\users\almei\dropbox\universidade federal juiz de fora\3° período\computação gráfica\cg\cg\src\06_quad_transform.cpp
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+
+1461630278 source:c:\users\almei\dropbox\universidade federal juiz de fora\3° período\computação gráfica\cg\cg\src\braco3d.c
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+
+1462449643 source:c:\users\almei\dropbox\universidade federal juiz de fora\3° período\computação gráfica\cg\cg\src\listaencad.cpp
+	<iostream>
+	<stdlib.h>
+	"ListaEncad.h"
+
+1462449643 c:\users\almei\dropbox\universidade federal juiz de fora\3° período\computação gráfica\cg\cg\src\listaencad.h
+	"Ponto.h"
+
+1462127700 c:\users\almei\dropbox\universidade federal juiz de fora\3° período\computação gráfica\cg\cg\src\ponto.h
+
+1462449796 source:c:\users\almei\dropbox\universidade federal juiz de fora\3° período\computação gráfica\cg\cg\src\curvasinterativas.cpp
+	<windows.h>
+	<GL/glui.h>
+	<GL/glut.h>
+	<iostream>
+	"Ponto.h"
+	"ListaEncad.h"
+	<math.h>
+
+1462536235 source:c:\users\almei\desktop\[t1]\src\curvasinterativas.cpp
+	<windows.h>
+	<GL/glui.h>
+	<GL/glut.h>
+	<iostream>
+	"Ponto.h"
+	"ListaEncad.h"
+	"glcText.h"
+	<math.h>
+	<string.h>
+
+1460577516 c:\users\almei\desktop\[t1]\include\gl\glui.h
+	<GL/freeglut.h>
+	<GL/openglut.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<vector>
+
+1368290960 c:\users\almei\desktop\[t1]\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1368290960 c:\users\almei\desktop\[t1]\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1368290960 c:\users\almei\desktop\[t1]\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1368290960 c:\users\almei\desktop\[t1]\include\gl\glut.h
+	"freeglut_std.h"
+
+1462536825 c:\users\almei\desktop\[t1]\src\ponto.h
+
+1462536744 c:\users\almei\desktop\[t1]\src\listaencad.h
+	"Ponto.h"
+
+1462536744 source:c:\users\almei\desktop\[t1]\src\listaencad.cpp
+	<iostream>
+	<stdlib.h>
+	"ListaEncad.h"
+
+1382639006 c:\users\almei\desktop\[t1]\src\glctext.h
+
+1382639006 source:c:\users\almei\desktop\[t1]\src\glctext.cpp
+	<stdio.h>
+	<string.h>
+	<GL/glut.h>
+	"glcText.h"
+
+1465259752 source:c:\users\almei\dropbox\universidade federal juiz de fora\3° período\computação gráfica\[d1] b-spline cúbica\src\curvasinterativas.cpp
+	<windows.h>
+	<GL/glui.h>
+	<GL/glut.h>
+	<iostream>
+	"Ponto.h"
+	"ListaEncad.h"
+	"glcText.h"
+	<math.h>
+	<string.h>
+
+1460577516 c:\users\almei\dropbox\universidade federal juiz de fora\3° período\computação gráfica\[d1] b-spline cúbica\include\gl\glui.h
+	<GL/freeglut.h>
+	<GL/openglut.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<vector>
+
+1368290960 c:\users\almei\dropbox\universidade federal juiz de fora\3° período\computação gráfica\[d1] b-spline cúbica\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1368290960 c:\users\almei\dropbox\universidade federal juiz de fora\3° período\computação gráfica\[d1] b-spline cúbica\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1368290960 c:\users\almei\dropbox\universidade federal juiz de fora\3° período\computação gráfica\[d1] b-spline cúbica\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1368290960 c:\users\almei\dropbox\universidade federal juiz de fora\3° período\computação gráfica\[d1] b-spline cúbica\include\gl\glut.h
+	"freeglut_std.h"
+
+1462536825 c:\users\almei\dropbox\universidade federal juiz de fora\3° período\computação gráfica\[d1] b-spline cúbica\src\ponto.h
+
+1462536744 c:\users\almei\dropbox\universidade federal juiz de fora\3° período\computação gráfica\[d1] b-spline cúbica\src\listaencad.h
+	"Ponto.h"
+
+1382639006 c:\users\almei\dropbox\universidade federal juiz de fora\3° período\computação gráfica\[d1] b-spline cúbica\src\glctext.h
+
+1382639006 source:c:\users\almei\dropbox\universidade federal juiz de fora\3° período\computação gráfica\[d1] b-spline cúbica\src\glctext.cpp
+	<stdio.h>
+	<string.h>
+	<GL/glut.h>
+	"glcText.h"
+
+1462536744 source:c:\users\almei\dropbox\universidade federal juiz de fora\3° período\computação gráfica\[d1] b-spline cúbica\src\listaencad.cpp
+	<iostream>
+	<stdlib.h>
+	"ListaEncad.h"
+
+1382653406 source:c:\users\almei\dropbox\universidade federal juiz de fora\3° período\computação gráfica\[d2] superfícies de revolução\src\glctext.cpp
+	<stdio.h>
+	<string.h>
+	<GL/glut.h>
+	"glcText.h"
+
+1368312560 c:\users\almei\dropbox\universidade federal juiz de fora\3° período\computação gráfica\[d2] superfícies de revolução\include\gl\glut.h
+	"freeglut_std.h"
+
+1368312560 c:\users\almei\dropbox\universidade federal juiz de fora\3° período\computação gráfica\[d2] superfícies de revolução\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1382653406 c:\users\almei\dropbox\universidade federal juiz de fora\3° período\computação gráfica\[d2] superfícies de revolução\src\glctext.h
+
+1462558344 source:c:\users\almei\dropbox\universidade federal juiz de fora\3° período\computação gráfica\[d2] superfícies de revolução\src\listaencad.cpp
+	<iostream>
+	<stdlib.h>
+	"ListaEncad.h"
+
+1462558344 c:\users\almei\dropbox\universidade federal juiz de fora\3° período\computação gráfica\[d2] superfícies de revolução\src\listaencad.h
+	"Ponto.h"
+
+1462558424 c:\users\almei\dropbox\universidade federal juiz de fora\3° período\computação gráfica\[d2] superfícies de revolução\src\ponto.h
+
+1465574343 source:c:\users\almei\dropbox\universidade federal juiz de fora\3° período\computação gráfica\[d2] superfícies de revolução\src\curvasinterativas.cpp
+	<windows.h>
+	<GL/glui.h>
+	<GL/glut.h>
+	<iostream>
+	"Ponto.h"
+	"ListaEncad.h"
+	"glcText.h"
+	<math.h>
+	<string.h>
+	<fstream>
+
+1460599116 c:\users\almei\dropbox\universidade federal juiz de fora\3° período\computação gráfica\[d2] superfícies de revolução\include\gl\glui.h
+	<GL/freeglut.h>
+	<GL/openglut.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<vector>
+
+1368312560 c:\users\almei\dropbox\universidade federal juiz de fora\3° período\computação gráfica\[d2] superfícies de revolução\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1368312560 c:\users\almei\dropbox\universidade federal juiz de fora\3° período\computação gráfica\[d2] superfícies de revolução\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1382653406 source:c:\users\lucas\documents\[d2] superfícies de revolução\src\glctext.cpp
+	<stdio.h>
+	<string.h>
+	<GL/glut.h>
+	"glcText.h"
+
+1368312560 c:\users\lucas\documents\[d2] superfícies de revolução\include\gl\glut.h
+	"freeglut_std.h"
+
+1368312560 c:\users\lucas\documents\[d2] superfícies de revolução\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1382653406 c:\users\lucas\documents\[d2] superfícies de revolução\src\glctext.h
+
+1462558344 source:c:\users\lucas\documents\[d2] superfícies de revolução\src\listaencad.cpp
+	<iostream>
+	<stdlib.h>
+	"ListaEncad.h"
+
+1462558344 c:\users\lucas\documents\[d2] superfícies de revolução\src\listaencad.h
+	"Ponto.h"
+
+1462558424 c:\users\lucas\documents\[d2] superfícies de revolução\src\ponto.h
+
+1465524500 source:c:\users\lucas\documents\[d2] superfícies de revolução\src\curvasinterativas.cpp
+	<windows.h>
+	<GL/glui.h>
+	<GL/glut.h>
+	<iostream>
+	"Ponto.h"
+	"ListaEncad.h"
+	"glcText.h"
+	<math.h>
+	<string.h>
+
+1460599116 c:\users\lucas\documents\[d2] superfícies de revolução\include\gl\glui.h
+	<GL/freeglut.h>
+	<GL/openglut.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<vector>
+
+1368312560 c:\users\lucas\documents\[d2] superfícies de revolução\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1368312560 c:\users\lucas\documents\[d2] superfícies de revolução\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1465477005 source:c:\users\almei\downloads\[d2] superfícies de revolução\[d2] superfícies de revolução\src\curvasinterativas.cpp
+	<windows.h>
+	<GL/glui.h>
+	<GL/glut.h>
+	<iostream>
+	"Ponto.h"
+	"ListaEncad.h"
+	"glcText.h"
+	<math.h>
+	<string.h>
+
+1460588316 c:\users\almei\downloads\[d2] superfícies de revolução\[d2] superfícies de revolução\include\gl\glui.h
+	<GL/freeglut.h>
+	<GL/openglut.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<vector>
+
+1368301760 c:\users\almei\downloads\[d2] superfícies de revolução\[d2] superfícies de revolução\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1368301760 c:\users\almei\downloads\[d2] superfícies de revolução\[d2] superfícies de revolução\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1368301760 c:\users\almei\downloads\[d2] superfícies de revolução\[d2] superfícies de revolução\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1368301760 c:\users\almei\downloads\[d2] superfícies de revolução\[d2] superfícies de revolução\include\gl\glut.h
+	"freeglut_std.h"
+
+1462547624 c:\users\almei\downloads\[d2] superfícies de revolução\[d2] superfícies de revolução\src\ponto.h
+
+1462547544 c:\users\almei\downloads\[d2] superfícies de revolução\[d2] superfícies de revolução\src\listaencad.h
+	"Ponto.h"
+
+1382646206 c:\users\almei\downloads\[d2] superfícies de revolução\[d2] superfícies de revolução\src\glctext.h
+
+1382646206 source:c:\users\almei\downloads\[d2] superfícies de revolução\[d2] superfícies de revolução\src\glctext.cpp
+	<stdio.h>
+	<string.h>
+	<GL/glut.h>
+	"glcText.h"
+
+1462547544 source:c:\users\almei\downloads\[d2] superfícies de revolução\[d2] superfícies de revolução\src\listaencad.cpp
+	<iostream>
+	<stdlib.h>
+	"ListaEncad.h"
+
+1465561221 source:c:\users\almei\downloads\[d2] superfícies de revolução (1)\[d2] superfícies de revolução\src\curvasinterativas.cpp
+	<windows.h>
+	<GL/glui.h>
+	<GL/glut.h>
+	<iostream>
+	"Ponto.h"
+	"ListaEncad.h"
+	"glcText.h"
+	<math.h>
+	<string.h>
+	<fstream>
+
+1460599116 c:\users\almei\downloads\[d2] superfícies de revolução (1)\[d2] superfícies de revolução\include\gl\glui.h
+	<GL/freeglut.h>
+	<GL/openglut.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<vector>
+
+1368312560 c:\users\almei\downloads\[d2] superfícies de revolução (1)\[d2] superfícies de revolução\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1368312560 c:\users\almei\downloads\[d2] superfícies de revolução (1)\[d2] superfícies de revolução\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1368312560 c:\users\almei\downloads\[d2] superfícies de revolução (1)\[d2] superfícies de revolução\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1368312560 c:\users\almei\downloads\[d2] superfícies de revolução (1)\[d2] superfícies de revolução\include\gl\glut.h
+	"freeglut_std.h"
+
+1462558424 c:\users\almei\downloads\[d2] superfícies de revolução (1)\[d2] superfícies de revolução\src\ponto.h
+
+1462558344 c:\users\almei\downloads\[d2] superfícies de revolução (1)\[d2] superfícies de revolução\src\listaencad.h
+	"Ponto.h"
+
+1382653406 c:\users\almei\downloads\[d2] superfícies de revolução (1)\[d2] superfícies de revolução\src\glctext.h
+
+1382653406 source:c:\users\almei\downloads\[d2] superfícies de revolução (1)\[d2] superfícies de revolução\src\glctext.cpp
+	<stdio.h>
+	<string.h>
+	<GL/glut.h>
+	"glcText.h"
+
+1462558344 source:c:\users\almei\downloads\[d2] superfícies de revolução (1)\[d2] superfícies de revolução\src\listaencad.cpp
+	<iostream>
+	<stdlib.h>
+	"ListaEncad.h"
+
+1465579280 source:c:\users\almei\dropbox\universidade federal juiz de fora\3° período\computação gráfica\[d2] superfícies de revolução\src\superficiesrevolucao.cpp
+	<windows.h>
+	<GL/glui.h>
+	<GL/glut.h>
+	<iostream>
+	"Ponto.h"
+	"ListaEncad.h"
+	"glcText.h"
+	<math.h>
+	<string.h>
+	<fstream>
+
